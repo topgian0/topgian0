@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🇧🇷 I'm from Brazil<br>💻 I’m working as IT support<br>⌚️ I'm currently learning computer sciencie</p>
+<p align="left"></p>
 
 ###
 
