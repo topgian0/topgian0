@@ -16,15 +16,6 @@
 
 ###
 
-<h3 align="left">🖥️ This is a little bit about me:</h3>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
